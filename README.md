@@ -1,3 +1,7 @@
+
+@stcgoal Automate creating project
+
+
 # [volo](http://volojs.org)
 
 **Create** browser-based, front-end projects from project templates, and **add**
